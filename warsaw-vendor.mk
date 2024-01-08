@@ -27,15 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/warsaw/proprietary/odm/etc/audio/ti/ti_WARSAW_GD_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/ti/ti_WARSAW_GD_normal.xml \
     vendor/huawei/warsaw/proprietary/odm/etc/audio/ti/ti_WARSAW_GK_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/ti/ti_WARSAW_GK_normal.xml \
     vendor/huawei/warsaw/proprietary/odm/etc/audio/ti/ti_default.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/ti/ti_default.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/device.config:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/device.config \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_imx386e3_ofilm/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_imx386e3_ofilm/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_imx386e3_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_imx386e3_sunny/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_imx486_ofilm/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_imx486_ofilm/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_imx486_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_imx486_sunny/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_ov12870e3_liteon/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_ov12870e3_liteon/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_ov12a10_foxconn/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_ov12a10_foxconn/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_ov12a10_liteon/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_ov12a10_liteon/mmi7cmConfig.xml \
-    vendor/huawei/warsaw/proprietary/odm/etc/camera/mmi7cm/warsaw_ov12a10_sunny/mmi7cmConfig.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/mmi7cm/warsaw_ov12a10_sunny/mmi7cmConfig.xml \
     vendor/huawei/warsaw/proprietary/odm/etc/firmware/ts/warsaw_focal_pram_8716.img:$(TARGET_COPY_OUT_ODM)/etc/firmware/ts/warsaw_focal_pram_8716.img \
     vendor/huawei/warsaw/proprietary/odm/etc/firmware/ts/warsaw_fts_wasw30110_tianma.img:$(TARGET_COPY_OUT_ODM)/etc/firmware/ts/warsaw_fts_wasw30110_tianma.img \
     vendor/huawei/warsaw/proprietary/odm/etc/firmware/ts/warsaw_ilitek_ws29080_jdi.bin:$(TARGET_COPY_OUT_ODM)/etc/firmware/ts/warsaw_ilitek_ws29080_jdi.bin \
